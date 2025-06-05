@@ -1,0 +1,1 @@
+This work shows how to valuate exotic options using Hilbert Spaces and fourier sequences. Even though the charts are in Spanish, all the explanation is English, which allows to follow the code easily.
